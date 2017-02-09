@@ -1,0 +1,11 @@
+main: to.epac.factorycraft.test.Test
+version: 1.0
+name: Test
+
+commands:
+  hello:
+    description: Send player message with colors
+  menu:
+    description: Open the plugin menu
+  info:
+    description: View server info
